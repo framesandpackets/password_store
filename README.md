@@ -11,4 +11,5 @@ Password store personal project
    cd password_manager  
 
 2. **Install requirements**
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
+
