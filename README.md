@@ -6,7 +6,8 @@ Password store personal project
 ### Installation
 
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/password_manager.git
+   ``` bash
+   git clone https://github.com/framesandpackets/password_store.git
    cd password_manager  
 
 2. **Install requirements**
